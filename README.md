@@ -1,4 +1,8 @@
 # Weather-Station
+![My Image](images/Weather Station Overview.jpg)
+
+![My Image](images/Weather Station Temp.jpg)
+
 Weather station created with the TIVA TM4C123G
 Project built with CCS
 
